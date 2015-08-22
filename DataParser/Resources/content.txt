@@ -1,0 +1,8 @@
+[button]
+
+button=(#id #name #en_str #cn_str
+ 
+	(0 confirm {confirm} {确定} )
+	(1 cancel {cancel} {取消} )
+
+)
